@@ -6,4 +6,5 @@ El escrito del proyecto final se encuentra en [esta](https://github.com/Malenisk
 
 La presentación del proyecto final se encuentra en [esta](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/TareaMetodologiaSantiagoMaElenaYanetMartin_presentacion.pdf) liga.
 
-Los archivos [main.py](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/main.py), [model.pkl](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/model.pkl), y [requeriments.txt](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/requirements.txt) conforman el código fuente del tablero en Streamlit que fue parte del proyecto.
+
+Los archivos [main.py](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/main.py), [model.pkl](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/model.pkl), y [requeriments.txt](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/requirements.txt) conforman el código fuente del tablero en Streamlit que fue parte del proyecto y esta hosteado en la siguiente [página](https://mjvnor-proyecto-integrador-analisis-de-datos-de-vin-main-mpt3rq.streamlit.app/) web.
