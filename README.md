@@ -1,10 +1,7 @@
 # Descripción.
 
-El presente tablero forma parte del proyecto integrador de la asignatura "Introducción a la Ciencia de Datos y sus Metodologías" del programa de la Maestría en Ciencia de Datos de la Universidad de Sonora. La realización de este trabajo fue a cargo de Santiago Robles, Yanet Hernández, María Elena Manzanares y Martín Vega.  El modelo de árbol de decisión aquí presentado fue entrenado a partir de los datos de calidad de vino rojo de la UCI.
+El presente repositorio cuenta con los archivos del curso "Introducción a la Ciencia de Datos y sus Metodologías" de la Maestría en Ciencia de Datos de la Universidad de Sonora.
 
-El escrito del proyecto final se encuentra en [esta](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/TareaMetodologiaSantiagoMaElenaYanetMartin.pdf) liga.
+El curso estuvo dividido en dos bloques. El primer bloque acargo del Dr. Juan Martín Preciado Rodríguez en el cual se estudió la metodología CRISP-DM. Esta primera parte concluyó con el proyecto integrador disponible en [esta](https://github.com/Maleniski/introduccion-ciencia-datos-metodologias/tree/main/parte1_CRISP_DM) liga.
 
-La presentación del proyecto final se encuentra en [esta](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/TareaMetodologiaSantiagoMaElenaYanetMartin_presentacion.pdf) liga.
-
-
-Los archivos [main.py](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/main.py), [model.pkl](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/model.pkl), y [requeriments.txt](https://github.com/Maleniski/Proyecto-Integrador-Analisis-de-datos-de-vinos/blob/main/requirements.txt) conforman el código fuente del tablero en Streamlit que fue parte del proyecto y esta hosteado en la siguiente [página](https://mjvnor-proyecto-integrador-analisis-de-datos-de-vin-main-mpt3rq.streamlit.app/) web.
+El segundo bloque estuvo a cargo del Dr. Juan Pablo Soto Barreras, en el cual se estudió el concepto de metodología ágil y SCRUM, y manejo de bases de datos. Esta segunda parte puede encontrarse en la [siguiente](https://github.com/Maleniski/introduccion-ciencia-datos-metodologias/tree/main/parte2_SCRUM_basedatos) liga.
